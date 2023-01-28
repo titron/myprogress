@@ -13,4 +13,5 @@ You can learn
 - to design a progress bar in linux
 
 The run result is as below:
+
 [=====>                                    ][15%][/]
