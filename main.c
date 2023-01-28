@@ -1,8 +1,8 @@
 /*
  * This is an sample code for a progress bar under Linux.
  *
- * and refering below link:
- * https://mp.weixin.qq.com/s/nfuVxsirWRDZ_mDIMRWiAw
+ * and refering below link
+ * [良许Linux](https://mp.weixin.qq.com/s/nfuVxsirWRDZ_mDIMRWiAw)
  *
  * You can learn 
  * - to edit Makefile
